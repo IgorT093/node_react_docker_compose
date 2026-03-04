@@ -103,17 +103,3 @@ comp build
 comp up
 ```
 
-### Setup references
-
-References for setting up a Node project with Docker and docker-compose:
-
-- https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
-- https://blog.codeship.com/using-docker-compose-for-nodejs-development/
-- http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html
-
-Express + React:
-
-- https://daveceddia.com/create-react-app-express-production/
-- http://ericsowell.com/blog/2017/5/16/create-react-app-and-express
-- https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0
-- https://medium.freecodecamp.org/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38
